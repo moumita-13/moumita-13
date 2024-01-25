@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there, I am Moumita Chowdhury 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611ypllxwu8oy1w14opm6e4fvwpp4kdi203ex0v83sp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"/>
+</div>
+
+##### 👨🏻‍💻I am currently in my 2nd year of B.Tech CSE. 
+##### 📚I am currently learning about cloud, AI and machine learning.
+
+
 
 <!--
 **moumita-13/moumita-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
