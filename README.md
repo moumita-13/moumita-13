@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-## Find me :
+<!-- ## Find me :
 <div id="badges">
   <a href="www.linkedin.com/in/moumita-chowdhury-88b7b125b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
