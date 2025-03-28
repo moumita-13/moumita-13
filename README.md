@@ -40,3 +40,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moumita-13&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moumita-13&theme=midnight-purple)](https://git.io/streak-stats)--!>
+
+
+
