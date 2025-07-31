@@ -4,8 +4,8 @@
 </div>
 
 ## About me : 
-##### 👨🏻‍💻I am a 2nd year student in B.Tech CSE at Amity University Kolkata. 
-##### 📚I am currently learning about cloud, AI and machine learning.
+##### 👨🏻‍💻I am a 4th year student in B.Tech CSE at Amity University Kolkata. 
+##### 📚I am currently learning about full stack development, cloud, AI and machine learning.
 ##### 📺In my free time, I code, read books and obssess over Taylor Swift & Marvel. 
 
 ## Languages : 
