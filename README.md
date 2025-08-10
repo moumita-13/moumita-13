@@ -33,7 +33,7 @@ Amity University Kolkata (2022 – Present)
 
 ## 🛠️ Tech Stack & Skills
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> <b>Python</b> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30"/> <b>Java</b> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30"/> <b>C</b> &nbsp;
@@ -43,7 +43,7 @@ Amity University Kolkata (2022 – Present)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> <b>JavaScript</b> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30"/> <b>PHP</b>
 </p>
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/> <b>Flutter</b> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="30"/> <b>OpenCV</b> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30"/> <b>Flask</b> &nbsp;
@@ -125,7 +125,7 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 
 ## 🌐 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://linktr.ee/moumitachowdhury">
     <img src="https://img.shields.io/badge/Linktree-00c300?logo=linktree&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/moumita-chowdhury-88b7b125b/">
