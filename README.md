@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mishmanners/branding/master/github-header-image.png" alt="Moumita Chowdhury Banner" width="100%" />
+  <img src="My-Banner.png" alt="Moumita Chowdhury Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Moumita Chowdhury! 👋</h1>
