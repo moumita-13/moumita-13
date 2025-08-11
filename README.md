@@ -72,7 +72,7 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 ## 🚀 Projects
 
 <details>
-<summary><b>NextHire | Online Job Portal Web Application (2025)</b></summary>
+<summary><b>[NextHire | Online Job Portal Web Application](https://github.com/Alisha-786/Online-Job-Portal)</b></summary>
 <ul>
   <li>Full-stack Java web application for job seekers and employers.</li>
   <li>Built with JSP, JavaScript, Bootstrap frontend; Java Servlets, MySQL backend.</li>
