@@ -111,7 +111,7 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 
 ## 🌈 Personal Interests
 
-- 📚 Reading 
+- 📚 Reading & Journaling
 - 🎵 Listening to music (<b>Taylor Swift</b> fan!)
 - ☕ Cafe hopping & taking aesthetic photos
 - 🗺️ Giving reviews on Google Maps
