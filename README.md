@@ -86,7 +86,12 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 </details>
 
 <details>
-<summary><b>RecogX | Automated Attendance System using Facial Recognition (2024)</b></summary>
+<summary>
+  <b>RecogX | Automated Attendance System using Facial Recognition (2024)</b>
+<a href="https://github.com/moumita-13/RecogX" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=7dIPcS7jvB8a&format=png&color=000000" alt="Project Link" height="20" style="background:#007aff;border-radius:50%;margin-left:8px;"/>
+  </a>
+</summary>
 <ul>
   <li>ML-powered system using OpenCV for real-time facial recognition and attendance.</li>
   <li>Easy-to-use UI; generated detailed attendance reports for admins and users.</li>
