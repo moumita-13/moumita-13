@@ -74,7 +74,7 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 
 <details>
 <summary>
-  <b>NextHire | Online Job Portal Web Application</b>
+  <b>NextHire | Online Job Portal Web Application (2025)</b>
   <a href="https://github.com/Alisha-786/Online-Job-Portal" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=7dIPcS7jvB8a&format=png&color=000000" alt="Project Link" height="20" style="background:#007aff;border-radius:50%;margin-left:8px;"/>
   </a>
