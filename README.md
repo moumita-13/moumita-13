@@ -57,7 +57,7 @@ Amity University Kolkata (2022 – Present)
  <!-- <b>Soft Skills:</b> Adaptability, Flexibility, Communication, Leadership, Problem Solving -->
 </p>
 
----
+<!-- --- -->
 
 ## 👩‍💻 Experience
 
@@ -68,7 +68,7 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 - Developed reusable Flutter widgets, intuitive UI/UX, and integrated RESTful APIs for real-time data.
 - Managed course, user, and enrollment data with efficient queries and clear constraints.
 
----
+<!-- --- -->
 
 ## 🚀 Projects
 
@@ -98,7 +98,7 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 </ul>
 </details>
 
----
+<!-- --- -->
 
 ## 📜 Certifications
 
@@ -107,7 +107,7 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 - Postman API Fundamentals Student Expert — Postman
 - Introduction to Data Science — Coursera
 
----
+<!-- --- -->
 
 ## 🌈 Personal Interests
 
@@ -116,7 +116,7 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 - ☕ Cafe hopping & taking aesthetic photos
 - 🗺️ Giving reviews on Google Maps
 
----
+<!-- --- -->
 
 ## 📈 GitHub Stats & Badges
 
@@ -131,7 +131,7 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
   <img src="https://komarev.com/ghpvc/?username=moumita-13&color=ff69b4" alt="Profile Views"/>
 </p>
 
----
+<!-- --- -->
 
 ## 🌐 Connect with Me
 
