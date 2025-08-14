@@ -72,12 +72,14 @@ Amity University Kolkata (2022 – Present)
 <div align="center">
 
 <!-- Web Development -->
-<strong>🌐 Web Development</strong><br>
+<strong>🌐 Full Stack Development (Frameworks & Libraries)</strong><br>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" title="Flask"/>
+<img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" title="OpenCV"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter"/>
 </div>
 
 <div align="center">
@@ -85,10 +87,8 @@ Amity University Kolkata (2022 – Present)
 <!-- Frameworks & Libraries -->
 <strong>📱 Frameworks & Libraries</strong><br>
 <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" title="OpenCV"/>
-
 <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter"/>
 </div>
-
 
 <div align="center">
 
