@@ -57,6 +57,63 @@ Amity University Kolkata (2022 – Present)
  <!-- <b>Soft Skills:</b> Adaptability, Flexibility, Communication, Leadership, Problem Solving -->
 </p>
 
+## 🛠️ My Technical Toolbox
+
+<div align="center">
+
+<!-- Programming Languages -->
+<strong>👩‍💻 Programming Languages</strong><br>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C"/>
+<img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" title="Dart"/>
+</div>
+
+<div align="center">
+
+<!-- Web Development -->
+<strong>🌐 Web Development</strong><br>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" title="HTML5"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" title="JavaScript"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/flask.png" alt="Flask" title="Flask"/>
+</div>
+
+<div align="center">
+
+<!-- Frameworks & Libraries -->
+<strong>📱 Frameworks & Libraries</strong><br>
+<img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" title="OpenCV"/>
+<img src="https://img.icons8.com/color/48/000000/apache-maven.png" alt="Maven" title="Maven"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter"/>
+</div>
+
+
+<div align="center">
+
+<!-- Databases & Backend -->
+<strong>🗄️ Databases & Backend</strong><br>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" alt="Supabase" title="Supabase" style="vertical-align:middle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache" title="Apache" width="50"/>
+</div>
+
+<div align="center">
+
+<!-- Tools & Platforms -->
+<strong>🛠️ Tools & Platforms</strong><br>
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub"/>
+</div>
+
+
+<p align="center">
+✨ Always learning, building, and experimenting with new tech! <br>
+Curious about my projects? Scroll down to see what I've been working on! 🚀
+</p>
 <!-- --- -->
 
 ## 👩‍💻 Experience
