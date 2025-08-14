@@ -29,7 +29,7 @@
 Amity University Kolkata (2022 – Present)  
 **CGPA:** 9.27
 
---- -->
+--- 
 
 ## 🛠️ Tech Stack & Skills
 
@@ -55,7 +55,6 @@ Amity University Kolkata (2022 – Present)
 </p>
 <p>
  <!-- <b>Soft Skills:</b> Adaptability, Flexibility, Communication, Leadership, Problem Solving -->
-</p>
 
 ## 🛠️ My Technical Toolbox
 
