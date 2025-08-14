@@ -85,7 +85,7 @@ Amity University Kolkata (2022 – Present)
 <!-- Frameworks & Libraries -->
 <strong>📱 Frameworks & Libraries</strong><br>
 <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" title="OpenCV"/>
-<img src="https://img.icons8.com/color/48/000000/apache-maven.png" alt="Maven" title="Maven"/>
+
 <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter"/>
 </div>
 
@@ -107,6 +107,9 @@ Amity University Kolkata (2022 – Present)
 <strong>🛠️ Tools & Platforms</strong><br>
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
 <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" title="GitHub"/>
+<img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="48" alt="VS Code" title="VS Code"/>
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Eclipse-IDE.png" width="48" alt="VS Code" title="VS Code"/>
+
 </div>
 
 
