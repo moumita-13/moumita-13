@@ -83,11 +83,11 @@ Amity University Kolkata (2022 – Present)
 
 <div align="center">
 
-<!-- Frameworks & Libraries -->
+<!-- Frameworks & Libraries 
 <strong>📱 Frameworks & Libraries</strong><br>
 <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" title="OpenCV"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" title="Flutter"/>
-</div>
+</div>-->
 
 <div align="center">
 
