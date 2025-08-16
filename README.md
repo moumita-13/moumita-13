@@ -17,20 +17,6 @@
 
 <!-- ---
 
- ## 🎯 Career Objective
-
-> Passionate and detail-oriented B.Tech CSE student skilled in Python, Java, and C. I love building robust software solutions, exploring Artificial Intelligence, and diving into Data Analysis. A proactive learner with a knack for problem-solving, I thrive in collaborative environments and am eager to gain industry experience, learn from experts, and make a real-world impact. 
-
----
-
-## 🏫 Education
-
-**Bachelor of Technology in Computer Science and Engineering**  
-Amity University Kolkata (2022 – Present)  
-**CGPA:** 9.27
-
---- 
-
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
