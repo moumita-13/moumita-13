@@ -203,7 +203,6 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
     <img src="https://img.shields.io/badge/Twitter/X-black?logo=twitter&logoColor=white"/></a>
 </p>
 
----
 
 <p align="center">
   <b>Let's connect, collaborate, and build something amazing! 🚀</b>
