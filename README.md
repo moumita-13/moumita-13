@@ -1,4 +1,3 @@
-<!-- Banner Image -->
 <p align="center">
   <img src="My-Banner.png" alt="Moumita Chowdhury Banner" width="100%" />
 </p>
@@ -14,11 +13,6 @@
     <img src="https://img.shields.io/badge/Linktree-00c300?logo=linktree&logoColor=white&style=for-the-badge" alt="Linktree"/>
   </a>
 </p>
-
-<!-- ---
-
-
- <!-- <b>Soft Skills:</b> Adaptability, Flexibility, Communication, Leadership, Problem Solving -->
 
 ## 🛠️ My Technical Toolbox
 
@@ -72,7 +66,6 @@
 ✨ Always learning, building, and experimenting with new tech! <br>
 Curious about my projects? Scroll down to see what I've been working on! 🚀
 </p>
-<!-- --- -->
 
 ## 👩‍💻 Experience
 
@@ -82,8 +75,6 @@ _Whiteboard Consultants_ (June 2025 – Aug 2025)
 - Designed PostgreSQL database schemas, PL/pgSQL functions for powerful search and data integrity.
 - Developed reusable Flutter widgets, intuitive UI/UX, and integrated RESTful APIs for real-time data.
 - Managed course, user, and enrollment data with efficient queries and clear constraints.
-
-<!-- --- -->
 
 ## 🚀 Projects
 
