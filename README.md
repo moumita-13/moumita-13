@@ -2,7 +2,7 @@
   <img src="My-Banner.png" alt="Moumita Chowdhury Banner" width="100%" />
 </p>
 
-<h1 align="center">Hey There, I'm Moumita Chowdhury! 👋</h1>
+<h1 align="center">Hey There, I'm Moumita Chowdhury!👋</h1>
 <p align="center">
   <b>B.Tech CSE Student | Aspiring Software Developer | AI & Data Enthusiast</b><br>
   <i>Learning. Building. Growing. Ready to make an impact in tech!</i>
